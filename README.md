@@ -9,8 +9,10 @@ CircleArea
 TypeCasting
 <img width="1673" height="683" alt="image" src="https://github.com/user-attachments/assets/1d185df6-3b57-4988-b187-421766eea2ba" />
 SwapNumbers
-![Uploading image.png…]()
+<img width="1566" height="692" alt="image" src="https://github.com/user-attachments/assets/06fe8ec9-f6bf-4e9a-be1c-c3519d9366eb" />
 EvenOdd
 ![Uploading image.png…]()
 Largest
+![Uploading image.png…]()
+MultiplicationTable
 ![Uploading image.png…]()
