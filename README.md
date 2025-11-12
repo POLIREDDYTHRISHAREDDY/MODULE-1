@@ -3,6 +3,8 @@ UnsignedRightShiftExample
 hello world.java
 <img width="1681" height="726" alt="image" src="https://github.com/user-attachments/assets/242430f0-f19f-41c5-a0c8-a08284d5aedb" />
 AboutMe.java
-![Uploading image.png…]()
+<img width="1704" height="675" alt="image" src="https://github.com/user-attachments/assets/89f354d8-69e2-4e60-8ae6-487558f88bd6" />
 CircleArea
+![Uploading image.png…]()
+TypeCasting
 ![Uploading image.png…]()
