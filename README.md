@@ -7,8 +7,10 @@ AboutMe.java
 CircleArea
 <img width="1573" height="675" alt="image" src="https://github.com/user-attachments/assets/203ca96a-f8f4-4b9a-8f07-fd8dda9626b4" />
 TypeCasting
-![Uploading image.png…]()
+<img width="1673" height="683" alt="image" src="https://github.com/user-attachments/assets/1d185df6-3b57-4988-b187-421766eea2ba" />
 SwapNumbers
 ![Uploading image.png…]()
 EvenOdd
+![Uploading image.png…]()
+Largest
 ![Uploading image.png…]()
