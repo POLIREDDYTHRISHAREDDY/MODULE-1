@@ -10,3 +10,5 @@ TypeCasting
 ![Uploading image.png…]()
 SwapNumbers
 ![Uploading image.png…]()
+EvenOdd
+![Uploading image.png…]()
