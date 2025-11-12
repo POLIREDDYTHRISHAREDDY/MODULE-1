@@ -4,3 +4,5 @@ hello world.java
 <img width="1681" height="726" alt="image" src="https://github.com/user-attachments/assets/242430f0-f19f-41c5-a0c8-a08284d5aedb" />
 AboutMe.java
 ![Uploading image.png…]()
+CircleArea
+![Uploading image.png…]()
