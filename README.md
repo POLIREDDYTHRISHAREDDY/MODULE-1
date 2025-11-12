@@ -5,6 +5,8 @@ hello world.java
 AboutMe.java
 <img width="1704" height="675" alt="image" src="https://github.com/user-attachments/assets/89f354d8-69e2-4e60-8ae6-487558f88bd6" />
 CircleArea
-![Uploading image.png…]()
+<img width="1573" height="675" alt="image" src="https://github.com/user-attachments/assets/203ca96a-f8f4-4b9a-8f07-fd8dda9626b4" />
 TypeCasting
+![Uploading image.png…]()
+SwapNumbers
 ![Uploading image.png…]()
