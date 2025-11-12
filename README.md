@@ -11,8 +11,10 @@ TypeCasting
 SwapNumbers
 <img width="1566" height="692" alt="image" src="https://github.com/user-attachments/assets/06fe8ec9-f6bf-4e9a-be1c-c3519d9366eb" />
 EvenOdd
-![Uploading image.png…]()
+<img width="1703" height="686" alt="image" src="https://github.com/user-attachments/assets/5317192c-9ed7-4a63-b94c-18b8d199c256" />
 Largest
 ![Uploading image.png…]()
 MultiplicationTable
+![Uploading image.png…]()
+ArraySumAverage 
 ![Uploading image.png…]()
